@@ -4,7 +4,7 @@
     purposes, the developer is not responsible for any illegal or unauthorized
     use of this program.
 """
-import urllib2
+import urllib
 import itertools
 from selenium import webdriver
 from selenium.common.exceptions import NoSuchElementException
